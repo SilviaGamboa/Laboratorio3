@@ -1,0 +1,68 @@
+
+DATE: 2023-03-22T13:20:23.710874200
+EVENT: SINPE MOVIL TRANSFER
+ID: 1
+DETAILS: SINPE
+
+ALEXANDER FERNANDEZ D CR10000000001 -2500.0
+
+ ACCOUNT DATA:
+
+  Account Number: CR10000000001
+  Balance: 7500.0
+
+ SAVING ACCOUNT DETAILS:
+
+  Monthly Term: 12
+  Saving StartDate: Mon Jul 03 00:00:00 CST 3922
+  Interest: 0.2
+  Balance + interest: 7500.20000000298
+
+JOSE HERRERA SOTO CR10000000002 +2500.0
+
+ ACCOUNT DATA:
+
+  Account Number: CR10000000002
+  Balance: 42500.0
+
+ CHEKING ACCOUNT DETAILS:
+
+  Interest: 0.5
+  Balance + interest: 42500.5
+
+
+-----------------------------------------
+DATE: 2023-03-24T16:08:22.449631800
+EVENT: SINPE MOVIL TRANSFER
+ID: 1
+DETAILS: SINPE
+
+ALEXANDER FERNANDEZ D CR10000000001 -2500.0
+
+ ACCOUNT DATA:
+
+  Account Number: CR10000000001
+  Balance: 7500.0
+
+ SAVING ACCOUNT DETAILS:
+
+  Monthly Term: 12
+  Saving StartDate: Mon Jul 03 00:00:00 CST 3922
+  Interest: 0.2
+  Balance + interest: 7500.20000000298
+
+DANIEL ARAYA AGUILAR CR20000000001 +2500.0
+
+ ACCOUNT DATA:
+
+  Account Number: CR20000000001
+  Balance: 22500.0
+
+ SAVING ACCOUNT DETAILS:
+
+  Monthly Term: 12
+  Saving StartDate: Sat Mar 04 00:00:00 CST 3922
+  Interest: 0.2
+  Balance + interest: 22500.20000000298
+
+-----------------------------------------
